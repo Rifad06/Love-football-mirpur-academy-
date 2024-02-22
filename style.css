@@ -1,0 +1,21 @@
+.a1{
+  color: yellow;
+  background-color: red;
+  text-align: center;
+  font-size: 50px;
+}
+
+.a2{
+  color: darkred;
+}
+table,td,th{
+  border: 5px solid green;
+  width: 50%;
+  border-collapse: collapse;
+}  
+.a3{
+  color: darkred
+}
+.a5{
+  color: darkred;
+}
